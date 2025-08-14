@@ -1,7 +1,7 @@
 # :vulcan_salute: Daniel here! 
 ### About me:
-- Currently working as a software engineer at Pagseguro Internacional.
-- Experience as a developer since 2021, when I graduated and started my first job.
+- Currently working as a mid-level software engineer at Banco Pan.
+- Experience as a developer since 2020, when i graduated and started my first job.
 - Currently doing a postgraduate degree in software architecture.
 
 
@@ -33,7 +33,4 @@
   <img src="https://readme-stats-delivery-klad.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=danielrios" height="150" alt="languages graph"  />
 </div>
 
-
-## Leetcode Stats 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Danielrios?theme=dark&font=Mukta%20Mahee&ext=heatmap)
 ###
